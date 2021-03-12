@@ -11,3 +11,9 @@
 jeanenchanted/jeanenchanted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## *𝚠𝚑𝚊𝚝 𝙸'𝚖 currently 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗*
+
+- **Learning Javascript** on Codecademy so that I could get better at developing.
+- **[Wink](https://github.com/jeanenchanted/wink)** Discord bot for levelling and fun commands.
+- **[Focus](https://github.com/jeanenchanted/focus)** Discord bot for my own server.
