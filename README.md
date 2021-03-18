@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 - **Learning Javascript** on Codecademy so that I could get better at developing.
 - **[Wink](https://github.com/jeanenchanted/wink)** Discord bot for levelling and fun commands.
 - **[Focus](https://github.com/jeanenchanted/focus)** Discord bot for my own server.
+- **[FreeFocus](https://github.com/jeanenchanted/freefocus)** Pomodoro timer to help people focus.
