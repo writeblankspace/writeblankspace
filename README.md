@@ -1,4 +1,4 @@
-# *❝ `wit beyond measure is man's greatest treasure`❞*
+# *`❝ wit beyond measure is man's greatest treasure❞`*
 
 - 👋 Heyo, I’m **@jeanenchanted**. You can just call me **Jean**.
 - 👀 I’m interested in **JavaScript** and making some cool **websites**. Mostly, I like to make **Discord bots**, especially with **DBD.js**.
