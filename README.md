@@ -1,4 +1,4 @@
-# *❝ 𝚠𝚒𝚝 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚎𝚊𝚜𝚞𝚛𝚎 𝚒𝚜 𝚖𝚊𝚗'𝚜 𝚐𝚛𝚎𝚊𝚝𝚎𝚜𝚝 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 ❞*
+# *❝ `wit beyond measure is man's greatest treasure`❞*
 
 - 👋 Heyo, I’m **@jeanenchanted**. You can just call me **Jean**.
 - 👀 I’m interested in **JavaScript** and making some cool **websites**. Mostly, I like to make **Discord bots**, especially with **DBD.js**.
@@ -12,7 +12,7 @@ jeanenchanted/jeanenchanted is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## *𝚠𝚑𝚊𝚝 𝙸'𝚖 currently 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗*
+## *`what I'm currently working on`*
 
 - **Learning Javascript** on Codecademy so that I could get better at developing.
 - **[Wink](https://github.com/jeanenchanted/wink)** Discord bot for levelling and fun commands.
