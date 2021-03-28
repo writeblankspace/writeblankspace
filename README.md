@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **JavaScript** on [Codecademy](https://www.codecademy.com/), so that I could make better apps.
 - 📚 Aside from coding, I also love **reading** and **writing** as well as listening to **Taylor Swift** - and making fan theories, of course!
 - 🔰 I'm currently a **Swiftie/Potterhead**.
-- 📫 You can reach me by messaging me on my **[Discord](https://dsc.gg/jean)** server.
+- 📫 You can reach me by messaging me on my **[Discord](https://itzjean.web.app/l/discord)** server.
 
 <!---
 jeanenchanted/jeanenchanted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
