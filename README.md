@@ -6,6 +6,7 @@
 - 📚 Aside from coding, I also love **reading** and **writing** as well as listening to **Taylor Swift** - and making fan theories, of course!
 - 🔰 I'm currently a **Swiftie/Potterhead**.
 - 📫 You can reach me by messaging me on my **[Discord](https://itzjean.web.app/l/discord)** server.
+- 🔗 All my links are available on **[my website](https://itzjean.web.app/)**.
 
 <!---
 jeanenchanted/jeanenchanted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
