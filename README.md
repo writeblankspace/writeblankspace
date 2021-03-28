@@ -3,8 +3,9 @@
 - 👋 Heyo, I’m **@jeanenchanted**. You can just call me **Jean**.
 - 👀 I’m interested in **JavaScript** and making some cool **websites**. Mostly, I like to make **Discord bots**, especially with **DBD.js**.
 - 🌱 I’m currently learning **JavaScript** on [Codecademy](https://www.codecademy.com/), so that I could make better apps.
+- 🏢 I'm still at **school**, meaning I'm not at a job like other people here.
 - 📚 Aside from coding, I also love **reading** and **writing** as well as listening to **Taylor Swift** - and making fan theories, of course!
-- 🔰 I'm currently a **Swiftie/Potterhead**.
+- 🔰 Currently, I'm a **Swiftie/Potterhead**.
 - 📫 You can reach me by messaging me on my **[Discord](https://itzjean.web.app/l/discord)** server.
 - 🔗 All my links are available on **[my website](https://itzjean.web.app/)**.
 
