@@ -1,12 +1,1 @@
-# *`"Long Live the walls we crashed through / All the kingdom lights shined just for me and you"`*
-
-- 👋 Heyo, I’m **@writeblankspace**.
-- 👀 I’m interested in **Python** and making some cool **websites**. Mostly, I like to make **Discord bots**.
-- 🏢 I'm still at **school**, meaning I'm not at a job like other people here.
-- 📚 Aside from coding, I also play guitar and piano and listen to **Taylor Swift**.
-- 🔰 Currently, I'm a Swiftie and a fan of Rick Riordan.
-
-<!---
-jeanenchanted/jeanenchanted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Random girlie who likes going on rabbit holes for pretty much everything. This GitHub page is a memorial for all my dead and abandoned projects. And the one project being made that will someday be covered in cobwebs.
